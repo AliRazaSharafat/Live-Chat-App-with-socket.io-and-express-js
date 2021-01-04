@@ -10,7 +10,6 @@ function App() {
       <Store>
         <Dashboard />
       </Store>
-      <span>Deployed</span>
     </div>
   );
 }
