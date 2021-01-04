@@ -1,0 +1,5 @@
+1-Client connection
+2-Server listening
+3-Emit events from client
+4-Broadcast
+5-Clients receive msgs
